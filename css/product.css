@@ -1,0 +1,33 @@
+.product_nav{
+	
+	background-color: ;
+	border-bottom: 1px solid #ccc;  
+	background-repeat: no-repeat;
+}
+
+
+.product{
+	padding-top: 50px;
+}
+
+
+.btn-primary{
+    color: #fff;
+    background-color: #2b95fd;
+    border-color: #1288fd;
+}
+
+
+.btn {
+	margin-top: 10px;
+	width: 100px;
+    
+}
+
+.footer{
+
+    bound-color:;
+	border-bottom: 1px solid #ccc;  
+	background-repeat: no-repeat;
+	border-color: red;
+
